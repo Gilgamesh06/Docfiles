@@ -148,6 +148,11 @@ $ sudo make install
 ```
 ### Tema polybar
 
+**Fuentes tema polybar**
+
+```
+$ ~/Docfiles/hacks-fonts ~/usr/share/fonts
+```
 ```
 $ mv ~/Docfiles/polybar  ~/.config
 ```
@@ -217,4 +222,15 @@ $ sudo apt-get install tilix
 
 ```
 $ sudo dnf install tilix
-# Docfiles
+```
+
+La terminal utiliza el tema wild cherry del script gogh : https://github.com/Mayccoll/Gogh
+la cual utiliza zsh y el tema bira del script : https://github.com/ohmybash/oh-my-bash
+y la fuente menlo 
+
+```
+**Font terminal**
+
+```
+$ ~/Docfiles/Menlo for Powerline.ttf ~/usr/share/fonts
+```
