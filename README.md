@@ -216,7 +216,6 @@ Si desea instalar **tilix.**
 
 ```
 $ sudo apt-get install tilix
-
 ```
 ## Fedora
 
@@ -228,9 +227,9 @@ La terminal utiliza el tema wild cherry del script gogh : https://github.com/May
 la cual utiliza zsh y el tema bira del script : https://github.com/ohmybash/oh-my-bash
 y la fuente menlo 
 
-```
 **Font terminal**
 
 ```
+
 $ ~/Docfiles/Menlo for Powerline.ttf ~/usr/share/fonts
 ```
