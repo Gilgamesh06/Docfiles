@@ -75,7 +75,7 @@ $ sudo apt-get install compton
 ```
 $ sudo dnf install compton
 ```
-### Arhivo de configuracion
+### Archivo de configuracion
 
 ```
 $ mv ~/Docfiles/compton  ~/.config
