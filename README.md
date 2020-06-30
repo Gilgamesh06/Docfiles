@@ -15,10 +15,6 @@ $ git clone https://github.com/Gilgamesh06/Docfiles.git
 
 ## Instalacion de los temas.
 
-<p>
-	debera descomprimir los arhivos y luego moverlos los temas descargados a las capertas pertinentes
-</p>
-
 ```
 $ cd ~/Docfiles/ 
 $ mv ~/Docfiles/Juno-ocean /usr/share/themes/
