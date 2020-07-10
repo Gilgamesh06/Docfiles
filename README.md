@@ -15,10 +15,6 @@ $ git clone https://github.com/Gilgamesh06/Docfiles.git
 
 ## Instalacion de los temas.
 
-<p>
-	debera descomprimir los arhivos y luego moverlos los temas descargados a las capertas pertinentes
-</p>
-
 ```
 $ cd ~/Docfiles/ 
 $ mv ~/Docfiles/Juno-ocean /usr/share/themes/
@@ -75,7 +71,7 @@ $ sudo apt-get install compton
 ```
 $ sudo dnf install compton
 ```
-### Arhivo de configuracion
+### Archivo de configuracion
 
 ```
 $ mv ~/Docfiles/compton  ~/.config
@@ -230,6 +226,5 @@ y la fuente menlo
 **Font terminal**
 
 ```
-
 $ ~/Docfiles/Menlo for Powerline.ttf ~/usr/share/fonts
 ```
