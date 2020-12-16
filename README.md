@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="/Images/icono.jpeg" alt="twitter" width="65%" height="65%"/>
+  <img src="/Images/icono.png" alt="twitter" width="65%" height="65%"/>
 </p>
 
 ---
