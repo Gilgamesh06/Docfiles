@@ -1,10 +1,24 @@
-# MyConfiguracion
+---
 
-Mi configuracion de bspwm y polybar.
+
+
+---
 
 <p align="center">
-  <img src="/walpaper/muestra.jpeg" alt="Polybar">
+  <img src="/Images/icono.jpeg" alt="twitter" width="65%" height="65%"/>
 </p>
+
+---
+
+# MyConfiguracion
+
+**Mi configuracion de bspwm y polybar.**
+
+<p align="center">
+  <img src="/Images/muestra.jpeg" alt="Polybar">
+</p>
+
+---
 
 ## Clonan el repositorio
 
@@ -13,6 +27,8 @@ $ cd ~
 $ git clone https://github.com/Gilgamesh06/Docfiles.git
 ```
 
+---
+
 ## Instalacion de los temas.
 
 ```
@@ -20,6 +36,8 @@ $ cd ~/Docfiles/
 $ mv ~/Docfiles/Juno-ocean /usr/share/themes/
 $ mv ~/Docfiles/Simply-Blue-Circles /usr/share/icons
 ```
+
+---
 
 ## Administrar temas
 
@@ -39,6 +57,8 @@ $ sudo apt-get install lxappearance
 $ sudo dnf install lxappearance
 ```
 
+---
+
 ## Rofi 
 
 **Instalacion**
@@ -55,6 +75,7 @@ $ sudo apt-get install rofi
 $ sudo dnf install rofi
 ```
 
+---
 
 ## Compton
 
@@ -77,6 +98,8 @@ $ sudo dnf install compton
 $ mv ~/Docfiles/compton  ~/.config
 ```
 
+---
+
 ## Feh
 
 **Instalacion**
@@ -93,6 +116,7 @@ $ sudo apt-get install feh
 $ sudo dnf install feh
 ```
 
+---
 
 ## Polybar 
 
@@ -119,6 +143,9 @@ $ sudo dnf install -y cairo-devel xcb-util-devel libxcb-devel xcb-proto xcb-util
 $ sudo dnf install -y xcb-util-xrm-devel xcb-util-cursor-devel alsa-lib-devel pulseaudio-libs-devel i3-ipc jsoncpp-devel libmpdclient-devel libcurl-devel wireless-tools-devel libnl3-devel
 
 ```
+
+---
+
 ## Instalacion polybar 
 
 
@@ -153,6 +180,8 @@ $ ~/Docfiles/hacks-fonts ~/usr/share/fonts
 $ mv ~/Docfiles/polybar  ~/.config
 ```
 
+---
+
 ## Bspwm
 
 **Instalacion**
@@ -171,6 +200,8 @@ $ sudo dnf install bspwm
 
 ```
 
+---
+
 ## Dependencias 
 
 ### Debian o derivados 
@@ -178,6 +209,8 @@ $ sudo dnf install bspwm
 ```
 $ sudo apt-get install libxcb-xinerama0-dev libxcb-icccm4-dev libxcb-randr0-dev libxcb-util0-dev libxcb-ewmh-dev libxcb-keysyms1-dev libxcb-shape0-dev 
 ```
+
+---
 
 ## Instalacion
 
@@ -213,7 +246,7 @@ Si desea instalar **tilix.**
 ```
 $ sudo apt-get install tilix
 ```
-## Fedora
+### Fedora
 
 ```
 $ sudo dnf install tilix
@@ -228,3 +261,5 @@ y la fuente menlo
 ```
 $ ~/Docfiles/Menlo for Powerline.ttf ~/usr/share/fonts
 ```
+
+---                                                                        
