@@ -1,11 +1,9 @@
 ---
 
-
-
----
-
 <p align="center">
-  <img src="/Images/icono.png" alt="twitter" width="65%" height="65%"/>
+	<a href="https://twitter.com/Gilgamesh_06">
+		<img src="/Images/icono.png" alt="twitter" width="70%" height="70%"/>
+	</a>
 </p>
 
 ---
